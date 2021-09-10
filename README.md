@@ -1,25 +1,40 @@
-### Hi there 👋
+# <div align="center">< 👋 Hello World / ></div>  
+  
 
-[![Shoaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=shoaib30&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/shoaib30/github-readme-stats)
+### <div align="center">I'm Shoaib, a full-time developer and startup founder👨‍💻 </div>  
+  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shoaib30&count_private=true&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/shoaib30)
+- 🔭 I’m currently working on my **Startup** in **Stealth Mode**  
+  
+
+- 🌱 I’m currently learning **Nest.js** and **FastAPI**  
+  
+
+- ❓ Ask me about anything related to **Python** or **JavaScript**  
+  
+
+<br/>  
 
 
-[![Shoaib's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=5236575&layout=compact&theme=dark)](https://stackoverflow.com/users/5236575/shoaib30)
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=shoaib30&show_icons=true&hide_border=truecount_private=true&show_icons=true&theme=tokyonight&include_all_commits=true" align="center" /></div>
+<br />
+  
+---
+  
+<div align="center">
+<a href="https://dev.to/shoaib30" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/shoaib30" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/shoaib30" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/5236575" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
 
-
-<!--
-**shoaib30/shoaib30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-https://github.com/abhisheknaiidu/awesome-github-profile-readme#tools
--->
+<br/>  
