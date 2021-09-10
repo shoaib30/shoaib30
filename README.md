@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+[![Shoaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=shoaib30&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/shoaib30/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shoaib30&count_private=true&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/shoaib30)
+
+
+[![Shoaib's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=5236575&layout=compact&theme=dark)](https://stackoverflow.com/users/5236575/shoaib30)
+
+
 <!--
 **shoaib30/shoaib30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +21,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+https://github.com/abhisheknaiidu/awesome-github-profile-readme#tools
 -->
