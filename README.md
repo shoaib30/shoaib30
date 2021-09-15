@@ -16,7 +16,7 @@
 <br/>  
 
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=shoaib30&show_icons=true&hide_border=truecount_private=true&show_icons=true&theme=tokyonight&include_all_commits=true" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=shoaib30&show_icons=true&hide_border=true&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true" align="center" /></div>
 <br />
   
 ---
