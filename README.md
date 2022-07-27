@@ -4,7 +4,7 @@
 ### <div align="center">I'm Shoaib, a full-time developer and startup founder👨‍💻 </div>  
   
 
-- 🔭 I’m currently building a **Productivity Platform** in  **BETA**  
+- 🔭 I’m currently building a **Productivity Platform** in **BETA**  
   
 
 - 🌱 I’m developing on **Nest.js** and **Flask**  
