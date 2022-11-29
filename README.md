@@ -7,7 +7,7 @@
 - 🔭 I’m currently building a **Productivity Platform** in  **BETA**  
   
 
-- 🌱 I’m developing on **Nest.js** and **Flask**  
+- 🌱 I’m developing on **Nest.js** and **React**  
   
 
 - ❓ Ask me about anything related to **Python** or **JavaScript**  
