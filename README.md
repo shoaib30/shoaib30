@@ -1,7 +1,7 @@
 # <div align="center">< 👋 Hello World / ></div>  
   
 
-### <div align="center">I'm Shoaib, a full-time developer and startup founder👨‍💻 </div>  
+### <div align="center">I'm Shoaib, a full-time developer👨‍💻 </div>  
   
 
 - 🔭 I’m currently building a **Productivity Platform** in  **BETA**  
